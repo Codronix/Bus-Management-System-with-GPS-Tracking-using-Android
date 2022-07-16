@@ -9,7 +9,7 @@
 - You need to install a Crystal Report Service Pack that supports your current version of Visual Studio.
 # ____________________________________________
 # Details of the project
-This is a project created using Visual Studio and uses Firebase Realtime database for online access.
+This is a project created using Visual Studio C# .Net and uses Firebase Realtime database for online access.
 A project created for a Bus Company to store, manage and keep track of company employee records and company bus records.
 
 It has two applications:
