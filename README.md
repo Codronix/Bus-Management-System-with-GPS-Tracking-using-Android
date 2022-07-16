@@ -1,3 +1,6 @@
+# Project Link: 
+Desktop Application: https://github.com/Codronix/Capstone-Project-Desktop-App
+Mobile Application: 
 # NOTE
 - This project is not perfect. It still has bugs.
 - If you want to try out the project, do not forget to enter your Firebase API Key and Firebase database link which can be located inside the Database.cs class.
