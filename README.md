@@ -1,3 +1,4 @@
+# Bus Management System with GPS Tracking Using Android
 # Project Link: 
 - Desktop Application: https://github.com/Codronix/Capstone-Project-Desktop-App
 - Mobile Application: https://github.com/Codronix/Capstone-Project-Mobile-App
@@ -7,8 +8,7 @@
 - Project is created in Visual Studio 2019.
 - You need to install a Crystal Report Service Pack that supports your current version of Visual Studio.
 # ____________________________________________
-# Bus Management System with GPS Tracking Using Android
-
+# Details of the project
 This is a project created using Visual Studio and uses Firebase Realtime database for online access.
 A project created for a Bus Company to store, manage and keep track of company employee records and company bus records.
 
