@@ -1,4 +1,4 @@
-# My-Thesis-Project
+# Bus Management System with GPS Tracking Using Android
 
 This is a project created using Visual Studio and uses Firebase Realtime database for online access.
 A project created for a Bus Company to store, manage and keep track of company employee records and company bus records.
