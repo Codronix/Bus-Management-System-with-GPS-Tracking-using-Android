@@ -44,3 +44,6 @@ Mobile Application Function:
 - Show passenger location for specific bus chosen to share location to using GPS.
 - Get bus live location via GPS.
 - Passenger Account Top Up or Loading Feature used for Digital Payment
+
+# NOTE
+- This project is not perfect. It has bugs and it is unstable for use
