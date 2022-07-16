@@ -1,5 +1,5 @@
 # NOTE
-- This project is not perfect. It still has some bugs.
+- This project is not perfect. It still has bugs.
 - If you want to try out the project, do not forget to enter your Firebase API Key and Firebase database link which can be located inside the Database.cs class.
 - Project is created in Visual Studio 2019.
 - You need to install a Crystal Report Service Pack that supports your current version of Visual Studio.
